@@ -6,7 +6,7 @@ import zipfile
 root = Path(__file__).resolve().parent
 assets = root / "assets"
 assets.mkdir(exist_ok=True)
-for filename in ("media-photos.zip", "media-video.zip"):
+for filename in ("media-photos.zip", "media-video.zip", "media-services.zip"):
     with zipfile.ZipFile(root / filename) as archive:
         for member in archive.infolist():
             name = Path(member.filename).name

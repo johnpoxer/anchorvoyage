@@ -29,3 +29,7 @@ The contact form prepares an email in the visitor's email app. It does not send 
 ## Media
 
 Stock images illustrate the industry and do not represent company personnel or owned assets. Source details are in assets-manifest.json, page-photography.json and individual page credits. Satellite imagery is for orientation, not navigation. Third-party media remain subject to their providers' terms; this repository does not grant a separate license to them.
+
+## Services photography update
+
+Every one of the 24 services-page cards has its own distinct stock photograph. Six additional service pages now have hero photographs. All 30 new images are in `media-services.zip`, extracted and verified by `prepare-media.py`. Source credits are recorded in `services-photography.json`.
