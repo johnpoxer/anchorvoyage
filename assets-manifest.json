@@ -1,0 +1,133 @@
+[
+  {
+    "id": "01",
+    "photo": "1585713181935-d5f622cc2415",
+    "file": "01-ocean-vessel.jpg",
+    "title": "Container vessel at sea",
+    "category": "Maritime",
+    "credit": "Unsplash",
+    "source": "https://unsplash.com/s/photos/cargo-ships",
+    "url": "https://images.unsplash.com/photo-1585713181935-d5f622cc2415?auto=format&fit=crop&w=1800&q=85",
+    "note": "International maritime stock; not a AnchorVoyage vessel."
+  },
+  {
+    "id": "02",
+    "photo": "36652844",
+    "file": "02-port-cranes.jpg",
+    "title": "Port infrastructure",
+    "category": "Logistics",
+    "credit": "Pexels",
+    "source": "https://www.pexels.com/photo/cargo-cranes-with-containers-at-shipping-port-36652844/",
+    "note": "International port stock; not Port Harcourt."
+  },
+  {
+    "id": "03",
+    "photo": "26224664",
+    "file": "03-container-vessel.jpg",
+    "title": "Vessel and terminal coordination",
+    "category": "Maritime",
+    "credit": "Pexels",
+    "source": "https://www.pexels.com/photo/container-ship-in-harbor-at-sunset-26224664/",
+    "note": "International maritime stock."
+  },
+  {
+    "id": "04",
+    "photo": "28438249",
+    "file": "04-deck-inspection.jpg",
+    "title": "Deck operations and inspection",
+    "category": "People",
+    "credit": "Simon R. Minshall / Pexels",
+    "source": "https://www.pexels.com/photo/worker-on-duty-checking-the-container-loading-28438249/",
+    "note": "Commercial ship crew; nationality not verified; not company personnel."
+  },
+  {
+    "id": "05",
+    "photo": "28447153",
+    "file": "05-supply-handling.jpg",
+    "title": "Shipboard supply handling",
+    "category": "People",
+    "credit": "Simon R. Minshall / Pexels",
+    "source": "https://www.pexels.com/photo/maritime-workers-loading-supplies-on-ship-deck-28447153/",
+    "note": "Commercial ship crew; nationality not verified; not company personnel."
+  },
+  {
+    "id": "06",
+    "photo": "24244230",
+    "file": "06-logistics-yard.jpg",
+    "title": "Container logistics",
+    "category": "Logistics",
+    "credit": "Pexels",
+    "source": "https://www.pexels.com/photo/containers-in-warehouse-24244230/",
+    "note": "International logistics stock."
+  },
+  {
+    "id": "07",
+    "photo": "28438391",
+    "file": "07-shipboard-crew.jpg",
+    "title": "People behind the port call",
+    "category": "People",
+    "credit": "Simon R. Minshall / Pexels",
+    "source": "https://www.pexels.com/photo/crew-on-container-ship-deck-with-stacked-containers-28438391/",
+    "note": "Commercial ship crew; nationality not verified; not company personnel."
+  },
+  {
+    "id": "08",
+    "photo": "36453960",
+    "file": "08-nigeria-engineer.jpg",
+    "title": "Engineering expertise in Nigeria",
+    "category": "Nigeria",
+    "credit": "rabiu kabir / Pexels",
+    "source": "https://www.pexels.com/photo/portrait-of-an-african-engineer-in-safety-gear-36453960/",
+    "note": "Source location: Nigeria. Studio engineering portrait; not shipboard or company personnel."
+  },
+  {
+    "id": "09",
+    "photo": "37198880",
+    "file": "09-nigeria-engineers.jpg",
+    "title": "Engineering teamwork in Nigeria",
+    "category": "Nigeria",
+    "credit": "Harrun Muhammad / Pexels",
+    "source": "https://www.pexels.com/photo/team-of-engineers-reviewing-construction-plans-37198880/",
+    "note": "Source location: Abuja, Nigeria. Engineering planning team; not shipboard or company personnel."
+  },
+  {
+    "id": "10",
+    "photo": "28247165",
+    "file": "10-offshore-crew.jpg",
+    "title": "Crew at sea",
+    "category": "People",
+    "credit": "Atmadeep Das / Pexels",
+    "source": "https://www.pexels.com/photo/two-men-in-orange-work-clothes-standing-on-the-deck-of-a-ship-28247165/",
+    "note": "Maritime workers aboard ship; nationality not verified; not company personnel."
+  },
+  {
+    "id": "11",
+    "photo": "36055592",
+    "file": "11-vessel-workers.jpg",
+    "title": "Shipboard safety in practice",
+    "category": "People",
+    "credit": "Oleksiy Yeshtokyn / Pexels",
+    "source": "https://www.pexels.com/photo/industrial-workers-on-cargo-ship-deck-at-sea-36055592/",
+    "note": "Commercial ship crew; nationality not verified; not company personnel."
+  },
+  {
+    "id": "12",
+    "photo": "20209664",
+    "file": "12-tugboat.jpg",
+    "title": "Support on the water",
+    "category": "Maritime",
+    "credit": "27 1 / Pexels",
+    "source": "https://www.pexels.com/photo/tugboat-on-sea-20209664/",
+    "note": "International maritime stock; not a company vessel."
+  },
+  {
+    "id": "13",
+    "photo": "33586980",
+    "file": "13-port-evening.jpg",
+    "title": "Trade beyond the quay",
+    "category": "Logistics",
+    "credit": "Pexels",
+    "source": "https://www.pexels.com/photo/sunset-at-a-busy-industrial-shipping-port-33586980/",
+    "note": "International port stock; not Port Harcourt."
+  }
+]
