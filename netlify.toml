@@ -1,4 +1,5 @@
 [build]
+  command = "python3 prepare-media.py"
   publish = "."
 
 [[headers]]
