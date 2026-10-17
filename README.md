@@ -33,3 +33,22 @@ Stock images illustrate the industry and do not represent company personnel or o
 ## Services photography update
 
 Every one of the 24 services-page cards has its own distinct stock photograph. Six additional service pages now have hero photographs. All 30 new images are in `media-services.zip`, extracted and verified by `prepare-media.py`. Source credits are recorded in `services-photography.json`.
+
+## URL policy and indexing audit
+
+Production uses `https://anchorvoyage.com/` and extensionless page URLs (for
+example, `/services`). Canonical tags, structured-data page URLs and the sitemap
+must use those destinations. HTML source filenames remain unchanged; Cloudflare
+Pages serves the extensionless routes and redirects `.html` requests. Local
+`preview.cjs` still serves the source `.html` filenames.
+
+`404.html` is required at the publish root. Without it, Cloudflare Pages treats
+unknown paths as a single-page application and can serve the homepage with status
+200. Do not add a catch-all homepage rewrite. The map helper and error page are
+intentionally `noindex` and are excluded from the sitemap.
+
+See [the October 2026 indexing audit](docs/indexing-audit-2026-10-17.md) before
+releasing these changes. The live site has eight additional article routes that
+are absent from this repository snapshot. Reconcile the current deployment source
+before deploying this branch; a full deployment of the old snapshot could remove
+them. The sitemap here lists only the 45 pages present in this source tree.
