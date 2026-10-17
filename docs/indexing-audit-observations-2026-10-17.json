@@ -1,0 +1,1271 @@
+{
+  "date": "2026-10-17",
+  "method": "curl GET with redirects followed; no Googlebot impersonation; results do not establish Google indexing status",
+  "observations": [
+    {
+      "url": "https://anchorvoyage.com/",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/index.html",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/services.html",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /services",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/services",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/contact.html?service=Crew%20changes%20%26%20welfare",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/contact?service=Crew%20changes%20%26%20welfare",
+      "canonical": [
+        "https://anchorvoyage.com/contact"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /contact?service=Crew%20changes%20%26%20welfare",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/robots.txt",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/robots.txt",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/plain; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/sitemap.xml",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/sitemap.xml",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/xml; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/index.html",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/index.html",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/services.html",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/services.html",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/services",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/contact.html?service=Crew%20changes%20%26%20welfare",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/contact.html?service=Crew%20changes%20%26%20welfare",
+      "canonical": [
+        "https://anchorvoyage.com/contact"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/robots.txt",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/robots.txt",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/plain; charset=UTF-8",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.netlify.app/sitemap.xml",
+      "status": "200",
+      "final_url": "https://anchorvoyage.netlify.app/sitemap.xml",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: application/xml",
+        "server: Netlify"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/index.html",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/services.html",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /services",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/services",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/contact.html?service=Crew%20changes%20%26%20welfare",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/contact?service=Crew%20changes%20%26%20welfare",
+      "canonical": [
+        "https://anchorvoyage.com/contact"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /contact?service=Crew%20changes%20%26%20welfare",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/robots.txt",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/robots.txt",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/plain; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://www.anchorvoyage.com/sitemap.xml",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/sitemap.xml",
+      "canonical": [],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/xml; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "http://anchorvoyage.com/",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 301 Moved Permanently",
+        "Content-Type: text/html; charset=UTF-8",
+        "Location: https://anchorvoyage.com/",
+        "Server: cloudflare",
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "http://www.anchorvoyage.com/",
+      "status": "200",
+      "final_url": "https://www.anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 301 Moved Permanently",
+        "Content-Type: text/html; charset=UTF-8",
+        "Location: https://www.anchorvoyage.com/",
+        "Server: cloudflare",
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/seo-audit-missing-20261017",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/seo-audit-missing-20261017",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/satellite-map.html",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/satellite-map",
+      "canonical": [],
+      "robots": [
+        "noindex"
+      ],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 308 ",
+        "location: /satellite-map",
+        "server: cloudflare",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/",
+      "canonical": [
+        "https://anchorvoyage.com/"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/company",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/company",
+      "canonical": [
+        "https://anchorvoyage.com/company"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/contact",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/contact",
+      "canonical": [
+        "https://anchorvoyage.com/contact"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-appointing-a-shipping-agent-nigeria",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-appointing-a-shipping-agent-nigeria",
+      "canonical": [
+        "https://anchorvoyage.com/insight-appointing-a-shipping-agent-nigeria"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-bunker-fresh-water-enquiry-checklist",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-bunker-fresh-water-enquiry-checklist",
+      "canonical": [
+        "https://anchorvoyage.com/insight-bunker-fresh-water-enquiry-checklist"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-cargo-quay-to-destination",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-cargo-quay-to-destination",
+      "canonical": [
+        "https://anchorvoyage.com/insight-cargo-quay-to-destination"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-choosing-a-nigerian-port",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-choosing-a-nigerian-port",
+      "canonical": [
+        "https://anchorvoyage.com/insight-choosing-a-nigerian-port"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-container-bulk-tanker-cargo",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-container-bulk-tanker-cargo",
+      "canonical": [
+        "https://anchorvoyage.com/insight-container-bulk-tanker-cargo"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-container-release-inland-delivery-nigeria",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-container-release-inland-delivery-nigeria",
+      "canonical": [
+        "https://anchorvoyage.com/insight-container-release-inland-delivery-nigeria"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-crew-change-planning-nigerian-ports",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-crew-change-planning-nigerian-ports",
+      "canonical": [
+        "https://anchorvoyage.com/insight-crew-change-planning-nigerian-ports"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-planning-a-port-harcourt-port-call",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-planning-a-port-harcourt-port-call",
+      "canonical": [
+        "https://anchorvoyage.com/insight-planning-a-port-harcourt-port-call"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-port-harcourt-maritime-city",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-port-harcourt-maritime-city",
+      "canonical": [
+        "https://anchorvoyage.com/insight-port-harcourt-maritime-city"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-project-cargo-readiness-nigeria",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-project-cargo-readiness-nigeria",
+      "canonical": [
+        "https://anchorvoyage.com/insight-project-cargo-readiness-nigeria"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-ship-management-hidden-costs",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-ship-management-hidden-costs",
+      "canonical": [
+        "https://anchorvoyage.com/insight-ship-management-hidden-costs"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-ship-spares-repair-attendance-guide",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-ship-spares-repair-attendance-guide",
+      "canonical": [
+        "https://anchorvoyage.com/insight-ship-spares-repair-attendance-guide"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-ship-supplies-restocking",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-ship-supplies-restocking",
+      "canonical": [
+        "https://anchorvoyage.com/insight-ship-supplies-restocking"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insight-ship-waste-reception-planning",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insight-ship-waste-reception-planning",
+      "canonical": [
+        "https://anchorvoyage.com/insight-ship-waste-reception-planning"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/insights",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/insights",
+      "canonical": [
+        "https://anchorvoyage.com/insights"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-arrival-pilotage",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-arrival-pilotage",
+      "canonical": [
+        "https://anchorvoyage.com/journey-arrival-pilotage"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-connected-trade",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-connected-trade",
+      "canonical": [
+        "https://anchorvoyage.com/journey-connected-trade"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-customs-inspections",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-customs-inspections",
+      "canonical": [
+        "https://anchorvoyage.com/journey-customs-inspections"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-final-checks-departure",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-final-checks-departure",
+      "canonical": [
+        "https://anchorvoyage.com/journey-final-checks-departure"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-inland-transport",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-inland-transport",
+      "canonical": [
+        "https://anchorvoyage.com/journey-inland-transport"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-loading-departure",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-loading-departure",
+      "canonical": [
+        "https://anchorvoyage.com/journey-loading-departure"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-mooring-safety",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-mooring-safety",
+      "canonical": [
+        "https://anchorvoyage.com/journey-mooring-safety"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-unloading-cargo",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-unloading-cargo",
+      "canonical": [
+        "https://anchorvoyage.com/journey-unloading-cargo"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey-yard-storage",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey-yard-storage",
+      "canonical": [
+        "https://anchorvoyage.com/journey-yard-storage"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/journey",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/journey",
+      "canonical": [
+        "https://anchorvoyage.com/journey"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-apapa",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-apapa",
+      "canonical": [
+        "https://anchorvoyage.com/port-apapa"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-calabar",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-calabar",
+      "canonical": [
+        "https://anchorvoyage.com/port-calabar"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-delta",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-delta",
+      "canonical": [
+        "https://anchorvoyage.com/port-delta"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-harcourt",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-harcourt",
+      "canonical": [
+        "https://anchorvoyage.com/port-harcourt"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-lekki",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-lekki",
+      "canonical": [
+        "https://anchorvoyage.com/port-lekki"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-onne",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-onne",
+      "canonical": [
+        "https://anchorvoyage.com/port-onne"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-rivers",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-rivers",
+      "canonical": [
+        "https://anchorvoyage.com/port-rivers"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/port-tin-can-island",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/port-tin-can-island",
+      "canonical": [
+        "https://anchorvoyage.com/port-tin-can-island"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/ports",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/ports",
+      "canonical": [
+        "https://anchorvoyage.com/ports"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-bunker-fresh-water",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-bunker-fresh-water",
+      "canonical": [
+        "https://anchorvoyage.com/service-bunker-fresh-water"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-cargo-inland-logistics",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-cargo-inland-logistics",
+      "canonical": [
+        "https://anchorvoyage.com/service-cargo-inland-logistics"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-chartering-support",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-chartering-support",
+      "canonical": [
+        "https://anchorvoyage.com/service-chartering-support"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-crew-change",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-crew-change",
+      "canonical": [
+        "https://anchorvoyage.com/service-crew-change"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-customs-clearing-forwarding",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-customs-clearing-forwarding",
+      "canonical": [
+        "https://anchorvoyage.com/service-customs-clearing-forwarding"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-oil-gas-marine-support",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-oil-gas-marine-support",
+      "canonical": [
+        "https://anchorvoyage.com/service-oil-gas-marine-support"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-port-operations",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-port-operations",
+      "canonical": [
+        "https://anchorvoyage.com/service-port-operations"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-project-cargo",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-project-cargo",
+      "canonical": [
+        "https://anchorvoyage.com/service-project-cargo"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-ship-management",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-ship-management",
+      "canonical": [
+        "https://anchorvoyage.com/service-ship-management"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-ship-supplies-chandelling",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-ship-supplies-chandelling",
+      "canonical": [
+        "https://anchorvoyage.com/service-ship-supplies-chandelling"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-shipping-agency-husbandry",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-shipping-agency-husbandry",
+      "canonical": [
+        "https://anchorvoyage.com/service-shipping-agency-husbandry"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-spares-repair-coordination",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-spares-repair-coordination",
+      "canonical": [
+        "https://anchorvoyage.com/service-spares-repair-coordination"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-survey-inspection",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-survey-inspection",
+      "canonical": [
+        "https://anchorvoyage.com/service-survey-inspection"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-underwater-services",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-underwater-services",
+      "canonical": [
+        "https://anchorvoyage.com/service-underwater-services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/service-waste-reception",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/service-waste-reception",
+      "canonical": [
+        "https://anchorvoyage.com/service-waste-reception"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    },
+    {
+      "url": "https://anchorvoyage.com/services",
+      "status": "200",
+      "final_url": "https://anchorvoyage.com/services",
+      "canonical": [
+        "https://anchorvoyage.com/services"
+      ],
+      "robots": [],
+      "error": null,
+      "response_headers": [
+        "HTTP/1.1 200 OK",
+        "HTTP/2 200 ",
+        "content-type: text/html; charset=utf-8",
+        "server: cloudflare"
+      ]
+    }
+  ]
+}
